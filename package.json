@@ -1,5 +1,5 @@
 {
-  "name": "adonis5-gigya",
+  "name": "@cambridge-pte/adonis5-gigya",
   "version": "2.0.0",
   "description": "Gigya provider for AdonisJS 5",
   "author": "John Renzo Sunico",
@@ -69,7 +69,7 @@
     "build/index.d.ts"
   ],
   "dependencies": {
-    "gigya": "npm:@cambridge-pte/gigya@^3.0.3"
+    "gigya": "npm:@cambridge-pte/gigya@^3.0.5"
   },
   "mrmConfig": {
     "core": false,
