@@ -1,6 +1,9 @@
 {
   "name": "@cambridge-pte/adonis5-gigya",
   "version": "2.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "Gigya provider for AdonisJS 5",
   "author": "John Renzo Sunico",
   "scripts": {
